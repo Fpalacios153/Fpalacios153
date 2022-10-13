@@ -1,7 +1,7 @@
- <h1 align="center">My name is Francisco Palacios</h1>
+<!--  <h1 align="center">My name is Francisco Palacios</h1>
  <h2 align="center"> 👋 Welcome to my profile! 👋</h2> 
-
-
+ -->
+![Header](https://github.com/Fpalacios153/Fpalacios153/blob/main/header.png?raw=true)
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,9 +28,9 @@
 
 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](francisco.palacios.jav@gmail.com)
 
-[![LinkedIn][LinkedIn.com][LinkedIn-url]]
+[![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-palacios-783619253/)
 
 
 
@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[LinkedIn-url]: https://www.linkedin.com/in/francisco-palacios-783619253/
+[LinkedInpic]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn-url]:  https://www.linkedin.com/in/francisco-palacios-783619253/
