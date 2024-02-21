@@ -21,7 +21,6 @@
 ## GitHub Stats
 <div align="center">
  
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fpalacios153&theme=radical))](https://github.com/Fpalacios153/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fpalacios153&layout=compact&theme=radical)](https://github.com/Fpalacios153/github-readme-stats)
 </div>
